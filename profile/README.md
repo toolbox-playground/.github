@@ -1,5 +1,5 @@
 # Bem-vindo a Toolbox DevOps Playground☁️!
-![ToolboxDevOps](https://github.com/toolboxcompany/.github/blob/main/profile/image/readme-avatar.png)
+![ToolboxDevOps](https://github.com/toolboxcompany/.github/blob/main/profile/readme-avatar.png)
 
 Nossa paixão é sobre compartilhar, ajudar nossa comunidade a prosperar no mundo da Cloud, SRE e DevOps. 
 
