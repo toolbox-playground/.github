@@ -2,7 +2,7 @@
 
 Nossa paixão é sobre compartilhar, ajudar nossa comunidade a prosperar no mundo da Cloud, SRE e DevOps. 
 
-## O que você irá encontrar nesse repositório? 
+## O que você irá encontrar nesta organização? 
 Aqui, compartilharemos exemplos práticos da rotina de um DevOps/SRE, códigos e boas práticas .
 
 \
