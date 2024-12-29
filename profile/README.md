@@ -17,11 +17,11 @@ Nós ❤️ contribuições open-source! Seja corrigindo um bug, melhorando a do
 - Envie um pull request.
 
 ## 📬 Entre em Contato
-#### 🌐 [Blog Oficial](https://blog.toolboxdevops.cloud/)
-#### 🌐 [Website](https://tbxtech.com.br/)
-📷 [Instagram](https://www.instagram.com/toolboxtechnology/)
-📧 contato@toolboxdevops.cloud
-🐦 [Twitter](https://x.com/toolboxtech_)
+##### 🌐 [Blog Oficial](https://blog.toolboxdevops.cloud/)
+##### 🌐 [Website](https://tbxtech.com.br/)
+##### 📷 [Instagram](https://www.instagram.com/toolboxtechnology/)
+##### 📧 contato@toolboxdevops.cloud
+##### 🐦 [Twitter](https://x.com/toolboxtech_)
 
 
 ![ToolboxDevOps](https://github.com/toolbox-playground/.github/blob/main/profile/readme-avatar.png)
