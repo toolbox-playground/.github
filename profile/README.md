@@ -1,10 +1,13 @@
 # Bem-vindo a Toolbox Tech Playground☁️!
 ![ToolboxDevOps](https://github.com/toolbox-playground/.github/blob/main/profile/readme-avatar-new.png)
 
-Nossa missão é tornar a tecnologia mais acessível à indivíduos e empresas através de consultoria e educação em Cloud, SRE e DevOps
+Nossa missão é tornar a tecnologia mais acessível à indivíduos e empresas através de consultoria e educação em Cloud, SRE e DevOps.
 
 ## 🛠️ O que você encontrará aqui
-Aqui, compartilharemos exemplos práticos da rotina de um DevOps/SRE, códigos e boas práticas .
+Aqui, compartilharemos exemplos práticos da rotina de um DevOps/SRE, códigos e boas práticas.
+
+## Apoio à comunidade
+🏆 Patrocinadora Oficial DevOpsDay Campinas 2025 e Campus Party 2025 Distrito Federal 🏆
 
 ## 🤝 Como colaborar
 Nós ❤️ contribuições open-source! Seja corrigindo um bug, melhorando a documentação ou sugerindo uma nova funcionalidade:
