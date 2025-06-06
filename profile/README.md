@@ -1,4 +1,5 @@
 # Bem-vindo a Toolbox Tech Playground☁️!
+![ToolboxDevOps](https://github.com/toolbox-playground/.github/blob/main/profile/readme-avatar-new.png)
 
 Nossa missão é tornar a tecnologia mais acessível à indivíduos e empresas através de consultoria e educação em Cloud, SRE e DevOps
 
@@ -18,5 +19,3 @@ Nós ❤️ contribuições open-source! Seja corrigindo um bug, melhorando a do
 ##### 📷 [Instagram](https://www.instagram.com/toolboxtechnology/)
 ##### 📧 contato@tbxtech.com
 ##### 🐦 [Twitter](https://x.com/toolboxtech_)
-
-![ToolboxDevOps](https://github.com/toolbox-playground/.github/blob/main/profile/readme-avatar-new.png)
